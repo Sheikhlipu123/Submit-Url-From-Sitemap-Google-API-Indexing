@@ -19,3 +19,8 @@ To use this script, you need to obtain an API key for the Google Indexing API. H
 5. Save the downloaded JSON key file as `a.json` in the same directory as the script.
 
 Make sure the service account associated with the API key has the necessary permissions to access and use the Google Indexing API.
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
