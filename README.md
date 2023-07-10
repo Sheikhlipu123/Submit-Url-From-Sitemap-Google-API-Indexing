@@ -16,7 +16,7 @@ To use this script, you need to obtain an API key for the Google Indexing API. H
 2. Create a new project or select an existing project.
 3. Enable the Google Indexing API for your project.
 4. Create a service account key and download the JSON key file.
-5. Save the downloaded JSON key file as `a.json` in the same directory as the script.
+5. Save the downloaded JSON key file as `your.json` in the same directory as the script.
 
 Make sure the service account associated with the API key has the necessary permissions to access and use the Google Indexing API.
 
